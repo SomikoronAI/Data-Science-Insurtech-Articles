@@ -1,4 +1,6 @@
 ## Insurtech and Data Science Articles
-This repo has the pdf files of the articles regarding insurtech and data science, respectively.
+This repo contains the pdf files of the articles regarding data science and insurtech, respectively.
 
-The pdf file showcasing inksurtech Bangaldesh is too large. Removed a significant number of pages to uplaod.    
+The pdf file discussing insurtech in Bangaldesh is too large. The 16 page long pdf file is splitted into 4 parts.
+To have the entire article you need to download all 4 parts.
+
